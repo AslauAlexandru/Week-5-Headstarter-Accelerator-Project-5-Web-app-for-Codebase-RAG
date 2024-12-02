@@ -1,5 +1,5 @@
 # Week 5 Headstarter Accelerator Project 5 Web app for Codebase RAG
-Google Colab: [*Week_5_Headstarter_Accelerator_Project_5_Web_app_for_Codebase_RAG_Completed.ipynb*]() and [*Codebase_RAG_Completed_without_Web_app.ipynb*](https://github.com/AslauAlexandru/Week-5-Headstarter-Accelerator-Project-5-Web-app-for-Codebase-RAG/blob/main/Codebase_RAG_Completed_without_Web_app.ipynb)
+Google Colab: [*Week_5_Headstarter_Accelerator_Project_5_Web_app_for_Codebase_RAG_Completed.ipynb*](https://github.com/AslauAlexandru/Week-5-Headstarter-Accelerator-Project-5-Web-app-for-Codebase-RAG/blob/main/Week_5_Headstarter_Accelerator_Project_5_Web_app_for_Codebase_RAG_Completed.ipynb) and [*Codebase_RAG_Completed_without_Web_app.ipynb*](https://github.com/AslauAlexandru/Week-5-Headstarter-Accelerator-Project-5-Web-app-for-Codebase-RAG/blob/main/Codebase_RAG_Completed_without_Web_app.ipynb)
  
 
 ## Statement for this project
